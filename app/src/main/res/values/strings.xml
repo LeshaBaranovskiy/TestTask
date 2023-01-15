@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EmpatTestTask</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_enter_your_city">Please, enter your city:</string>
+    <string name="your_city_here">Your city here...</string>
+    <string name="enter">Enter</string>
+    <string name="favourite">Favourite</string>
+    <string name="dialog_no_connection">Oops... No connection. \n Forecast could be inaccurate.</string>
+    <string name="ok">Ok</string>
+    <string name="not_found_city_label">City you\'re looking for not found.</string>
+    <string name="choose_one_from_fav">Choose one from your favourite cities:</string>
+    <string name="or">OR</string>
+    <string name="you_do_not_have_favourite_cities_yet">You do not have favourite cities yet</string>
+</resources>
